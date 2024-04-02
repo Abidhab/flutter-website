@@ -1,6 +1,6 @@
 {
-    "name": "admin_web",
-    "short_name": "admin_web",
+    "name": "flutterwebsite",
+    "short_name": "flutterwebsite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
